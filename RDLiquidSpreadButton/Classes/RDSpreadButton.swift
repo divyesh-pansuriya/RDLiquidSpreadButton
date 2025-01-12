@@ -6,6 +6,7 @@
 //
 import SwiftUI
 
+//@available(iOS 14.0, *)
 struct RDLiquidSpreadButtonsWithIcons: View {
     @State private var isExpanded = false
     @State private var rotationAngle: Double = 0
