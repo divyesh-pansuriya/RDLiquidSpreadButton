@@ -6,7 +6,6 @@
 
 A customizable liquid spread button for iOS with smooth animations, designed to work seamlessly with SwiftUI and UIKit.
 
-
 ## Example
 
 For a visual example, check out the following repository:
