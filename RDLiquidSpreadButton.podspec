@@ -6,12 +6,9 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/divyesh-pansuriya/RDLiquidSpreadButton'
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author       = { 'Divyesh Pansuriya' => 'adpansuriya2000@gmail.com' }
-  spec.social_media_url = 'https://twitter.com/yourhandle' # Add your Twitter handle if desired
-
   spec.source       = { :git => 'https://github.com/divyesh-pansuriya/RDLiquidSpreadButton.git', :tag => spec.version.to_s }
   spec.ios.deployment_target = '15.0'
 spec.swift_version = '5.0'  # Add Swift version here
-
   spec.source_files = 'RDLiquidSpreadButton/Classes/**/*.{h,m,swift}'
   spec.frameworks   = 'UIKit'
   spec.requires_arc = true
